@@ -1,0 +1,19 @@
+{
+    "products": [
+      {
+        "id": 0,
+        "name": "Boné Lacoste",
+        "price": 29.9
+      },
+      {
+        "id": 2,
+        "name": "Calça Defflint",
+        "price": 210.2
+      },
+      {
+        "name": "Cadeira",
+        "price": "120",
+        "id": 5
+      }
+    ]
+  }
